@@ -3,7 +3,7 @@
     {
       "date": 1,
       "url": "https//:example.com",
-      "articleSnippet": "Here is some example snippet"
+      "articleSnippet": undefined
     },
    {
       "date": 2,
